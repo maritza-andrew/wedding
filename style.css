@@ -146,7 +146,7 @@ body {
     .menu-options {
         width: 90%;
         padding: 25px;
-        font-size: 20px;
+        font-size: 15px;
     }
 
     .us-header-image {
@@ -169,4 +169,5 @@ body {
     .main {
         padding-top: 0px;
     }
+
 }
